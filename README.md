@@ -20,23 +20,17 @@ Uygulamanın çeşitli ekran görüntüleri aşağıda yer almaktadır:
 
 ### Giriş ve Kayıt Ekranları
 
-![Giriş Ekranı](assets/screenshots/login.jpg)
-![Kayıt Ekranı](assets/screenshots/signup.jpg)
+<img src="assets/screenshots/login.jpg" width="200" alt="Giriş Ekranı"> <img src="assets/screenshots/signup.jpg" width="200" alt="Kayıt Ekranı">
 
 ### Ana Ekranlar
 
-![Ana Sayfa](assets/screenshots/home.jpg)
-![Profil Ekranı](assets/screenshots/profile.jpg)
-![Drawer Menü](assets/screenshots/drawer.jpg)
+<img src="assets/screenshots/home.jpg" width="200" alt="Ana Sayfa"> <img src="assets/screenshots/profile.jpg" width="200" alt="Profil Ekranı"> <img src="assets/screenshots/drawer.jpg" width="200" alt="Drawer Menü">
 
 ### Özellik Ekranları
 
-![Takvim](assets/screenshots/calendar.jpg)
-![Forum Ana Sayfa](assets/screenshots/forum1.jpg)
-![Forum Detay](assets/screenshots/forum2.jpg)
-![Notlar](assets/screenshots/notes.jpg)
-![Yapılacaklar](assets/screenshots/todos.jpg)
-![Öğretmenler](assets/screenshots/teachers.jpg)
+<img src="assets/screenshots/calendar.jpg" width="200" alt="Takvim"> <img src="assets/screenshots/forum1.jpg" width="200" alt="Forum Ana Sayfa"> <img src="assets/screenshots/forum2.jpg" width="200" alt="Forum Detay">
+
+<img src="assets/screenshots/notes.jpg" width="200" alt="Notlar"> <img src="assets/screenshots/todos.jpg" width="200" alt="Yapılacaklar"> <img src="assets/screenshots/teachers.jpg" width="200" alt="Öğretmenler">
 
 ## Teknoloji Stack
 
