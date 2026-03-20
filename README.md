@@ -146,14 +146,6 @@ tsc --noEmit
 npm start
 ```
 
-## Lisans
-
-Bu proje 0BSD lisansı altında yayınlanmıştır.
-
-## Destek
-
-Sorularınız veya hatalar için lütfen issue açınız.
-
 ---
 
 **Geliştirici**: zeyz9y  
