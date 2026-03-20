@@ -4,20 +4,13 @@ import { connectStorageEmulator, getStorage } from 'firebase/storage';
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-
-    apiKey: "AIzaSyDeCiMKNv9WCAZ62rdhkSJyETFEJT-qkkE",
-  
-    authDomain: "fir-c0126.firebaseapp.com",
-  
-    projectId: "fir-c0126",
-  
-    storageBucket: "fir-c0126.firebasestorage.app",
-  
-    messagingSenderId: "927534645450",
-  
-    appId: "1:927534645450:web:7d4fad6e9ac4682051b433"
-  
-  };
+  apiKey: process.env.EXPO_PUBLIC_FIREBASE_API_KEY,
+  authDomain: process.env.EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.EXPO_PUBLIC_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.EXPO_PUBLIC_FIREBASE_APP_ID,
+};
 
 const app = initializeApp(firebaseConfig);
 const db = getFirestore(app);
