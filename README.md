@@ -19,15 +19,18 @@ HocaMetre+, öğrencilerin dersleri yönetebilmesi, öğretmenlerle iletişim ku
 Uygulamanın çeşitli ekran görüntüleri aşağıda yer almaktadır:
 
 ### Giriş ve Kayıt Ekranları
+
 ![Giriş Ekranı](assets/screenshots/login.jpg)
 ![Kayıt Ekranı](assets/screenshots/signup.jpg)
 
 ### Ana Ekranlar
+
 ![Ana Sayfa](assets/screenshots/home.jpg)
 ![Profil Ekranı](assets/screenshots/profile.jpg)
 ![Drawer Menü](assets/screenshots/drawer.jpg)
 
 ### Özellik Ekranları
+
 ![Takvim](assets/screenshots/calendar.jpg)
 ![Forum Ana Sayfa](assets/screenshots/forum1.jpg)
 ![Forum Detay](assets/screenshots/forum2.jpg)
