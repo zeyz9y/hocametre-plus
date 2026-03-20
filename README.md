@@ -1,6 +1,6 @@
 # HocaMetre+
 
-HocaMetre+, öğrencilerin dersleri yönetebilmesi, öğretmenlerle iletişim kurabıldığı, forumda soru sorabileceği ve notlarını tutabileceği kapsamlı bir eğitim yönetim uygulamasıdır.
+HocaMetre+, öğrencilerin dersleri yönetebilmesi, öğretmenlerle iletişim kurabildiği, forumda soru sorabileceği ve notlarını tutabileceği kapsamlı bir eğitim yönetim uygulamasıdır.
 
 ## Özellikler
 
