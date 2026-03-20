@@ -145,8 +145,3 @@ tsc --noEmit
 ```bash
 npm start
 ```
-
----
-
-**Geliştirici**: zeyz9y  
-**Son Güncelleme**: Mart 2026
